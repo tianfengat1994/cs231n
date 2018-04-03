@@ -1,0 +1,24 @@
+[I 23:12:40.711 LabApp] JupyterLab beta preview extension loaded from /Users/zhangjunmin/.pyenv/versions/2.7.14/lib/python2.7/site-packages/jupyterlab
+[I 23:12:40.712 LabApp] JupyterLab application directory is /Users/zhangjunmin/.pyenv/versions/2.7.14/share/jupyter/lab
+[W 23:12:40.718 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 23:12:40.720 LabApp] JupyterLab beta preview extension loaded from /Users/zhangjunmin/.pyenv/versions/2.7.14/lib/python2.7/site-packages/jupyterlab
+[I 23:12:40.720 LabApp] JupyterLab application directory is /Users/zhangjunmin/.pyenv/versions/2.7.14/share/jupyter/lab
+[I 23:12:40.733 LabApp] Serving notebooks from local directory: /Users/zhangjunmin/Library/Mobile Documents/com~apple~CloudDocs/Docs/course/cs231n/notebooks
+[I 23:12:40.733 LabApp] 0 active kernels
+[I 23:12:40.733 LabApp] The Jupyter Notebook is running at:
+[I 23:12:40.733 LabApp] http://localhost:8888/?token=e4d337e75f69a1452fbb55f916fc72bf218da49cca2055c7
+[I 23:12:40.734 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:12:40.735 LabApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=e4d337e75f69a1452fbb55f916fc72bf218da49cca2055c7
+[I 23:12:40.892 LabApp] Accepting one-time-token-authenticated connection from ::1
+[W 23:12:41.721 LabApp] Could not determine jupyterlab build status without nodejs
+[W 23:12:45.944 LabApp] Could not determine jupyterlab build status without nodejs
+[W 23:12:56.476 LabApp] Notebook assignment1/knn.ipynb is not trusted
+[I 23:12:57.796 LabApp] Kernel started: 5408379a-e9dd-42b6-a618-c6fef88424a1
+[I 23:12:59.108 LabApp] Adapting to protocol v5.1 for kernel 5408379a-e9dd-42b6-a618-c6fef88424a1
+[I 23:12:59.108 LabApp] Adapting to protocol v5.1 for kernel 5408379a-e9dd-42b6-a618-c6fef88424a1
+[I 23:14:57.815 LabApp] Saving file at /assignment1/knn.ipynb
+[I 00:16:51.258 LabApp] Starting buffering for 5408379a-e9dd-42b6-a618-c6fef88424a1:928abb14401af8eb87bda34d3669618b
