@@ -1,4 +1,4 @@
-﻿<img src="./pics/cs231n_2017_lecture6-01.jpg" width="700">
+<img src="./pics/cs231n_2017_lecture6-01.jpg" width="700">
 kay, let's get started.
 Okay, so today we're going to
 get into some of the details
